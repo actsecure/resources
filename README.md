@@ -1,7 +1,7 @@
 # actsecure
 
 **Shared resources**
-* [Wiki] (https://github.com/actsecure/actsecure/wiki)
+* [Wiki] (https://github.com/actsecure/resources/wiki)
 * [Chat] (https://gitter.im/actsecure/Lobby)
 
 **Social Media**
